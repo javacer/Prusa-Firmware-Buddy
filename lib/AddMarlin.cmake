@@ -104,6 +104,7 @@ add_library(
   Marlin/Marlin/src/gcode/temperature/M155.cpp
   Marlin/Marlin/src/gcode/temperature/M303.cpp
   Marlin/Marlin/src/gcode/units/M82_M83.cpp
+  Marlin/Marlin/src/gcode/calibrate/M852.cpp
   Marlin/Marlin/src/HAL/HAL_STM32_F4_F7/eeprom_emul.cpp
   Marlin/Marlin/src/HAL/HAL_STM32_F4_F7/EmulatedEeprom.cpp
   Marlin/Marlin/src/HAL/HAL_STM32_F4_F7/HAL.cpp
